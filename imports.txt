@@ -1,0 +1,5 @@
+pip install torch torchvision torchaudio
+
+pip install stable-baselines3[extra]
+
+pip install gym
